@@ -26,6 +26,7 @@ const BrowserDetail = () => {
       <p><strong>Cookies Enabled:</strong> {browserDetails.cookieEnabled ? 'Yes' : 'No'}</p>
       <p><strong>Online Status:</strong> {browserDetails.onLine ? 'Online' : 'Offline'}</p>
       <h1>******************************</h1>
+      <h1>******************************</h1>
     </div>
   );
 };
